@@ -1,3 +1,8 @@
 {
-  "text":"Hello World"
+  "text":"Hello World",
+  "author": "Coffee Quote"
+},
+{
+  "text":"Good days",
+  "author":"Coffee Quote"
 }
